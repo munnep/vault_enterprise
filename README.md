@@ -8,6 +8,10 @@ Make sure you have a Vault Enterprise license available for use
 
 Store this under the directory `files/vault`
 
+## Vagrant
+Vagrant [See documentation](https://www.vagrantup.com/docs/installation)  
+Virtualbox [See documentation](https://www.virtualbox.org/wiki/Downloads)
+
 # How to
 
 - Clone the repository to your local machine

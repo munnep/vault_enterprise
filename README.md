@@ -6,7 +6,7 @@ This repository installs Vault Enterprise version 1.7.1 by using Vagrant.
 ## License
 Make sure you have a Vault Enterprise license available for use
 
-Store this under the directory `files/vault`
+Store this under the directory `files/vault.hclic`
 
 ## Vagrant
 Vagrant [See documentation](https://www.vagrantup.com/docs/installation)  
